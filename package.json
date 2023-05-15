@@ -23,7 +23,7 @@
   "dependencies": {
     "codemirror": "5.62.3",
     "codemirror-spell-checker": "*",
-    "marked": "*"
+    "marked": "3.0.2"
   },
   "devDependencies": {
     "browserify": "*",
